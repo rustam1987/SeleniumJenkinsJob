@@ -1,6 +1,4 @@
-com\well\SeleniumFramework\UserdefineTests\UserDefinedTest.class
 com\well\SeleniumFramework\Utils\TestNGModuleDTO.class
 com\well\SeleniumFramework\Utils\ExecutionDriver.class
-com\well\SeleniumFramework\UserdefinedTests\SmokeTest.class
 com\well\SeleniumFramework\Utils\SeleniumExecutor.class
 com\well\SeleniumFramework\Utils\TestNGExecutor.class

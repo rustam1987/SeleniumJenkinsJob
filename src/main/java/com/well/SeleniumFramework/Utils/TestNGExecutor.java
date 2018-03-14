@@ -59,6 +59,7 @@ public class TestNGExecutor {
 			TestNG tng=new TestNG();
 			tng.setXmlSuites(suites);
 			tng.setPreserveOrder(true);
+			
 			tng.run();	
 			
 		}
